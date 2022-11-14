@@ -1,2 +1,2 @@
 # brtc
-tools collection
+tool collection

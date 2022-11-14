@@ -1,0 +1,15 @@
+[workspace]
+members = [
+    'tpl'
+]
+
+
+
+
+
+[profile.dev]
+opt-level = 0
+
+[profile.release]
+#panic = 'abort'
+
